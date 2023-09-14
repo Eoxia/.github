@@ -6,6 +6,8 @@
 
 👩‍💻 Ressources utiles - [Vous pouvez retrouver tous nos liens de contact ainsi que notre site internet ici](https://www.eoxia.com/linktree)
 
+🧙 Vous pouvez suivre les évolutions de projets en temps réel ici : [Projet Eoxia](https://github.com/orgs/Eoxia/projects/13) 
+
 💻 Site internet : [Eoxia.com](https://www.eoxia.com/) 
 
 🍿 Fun facts - Après une journée de dur labeur, nos développeurs troquent leurs claviers contre des souris et se lancent dans des batailles épiques. Car après tout, résoudre des lignes de code peut être tout aussi stratégique que de détruire les Nexus ! 🎮

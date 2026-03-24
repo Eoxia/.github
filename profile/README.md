@@ -13,10 +13,13 @@
 🍿 Fun facts - Après une journée de dur labeur, nos développeurs troquent leurs claviers contre des souris et se lancent dans des batailles épiques. Car après tout, résoudre des lignes de code peut être tout aussi stratégique que de détruire les Nexus ! 🎮
 
 # Présentation des principaux modules
-## 🦺 La meilleur CRM du monde et de l'univers voir plus
-- [ReedCRM - Id 436351](https://github.com/Eoxia/reedcrm)
+## 🦺 La meilleure CRM du monde et de l'univers voir plus !
+- [ReedCRM](https://github.com/Eoxia/reedcrm) - ID: 436351 - Ajout d'opportunité avec photo, note écrite, vocal, directement via votre téléphone en toute simpicité
 ## 📋Note de frais
-- [Frais.pro - Id 436355](https://github.com/Eoxia/fraispro)
+- [Frais.pro](https://github.com/Eoxia/fraispro) - ID 436355 - Ajout de note de frais en toute simplicité
+
+## 📋WPShop
+- à venir
 
 # Présentation de modules secondaires
-- [GMAO](https://github.com/Evarisk/gmao) - ID: 436312 - Gestion de la maintenance assistée par ordinateur
+- à venir

@@ -14,12 +14,18 @@
 
 # Présentation des principaux modules
 ## 🦺 La meilleure CRM du monde et de l'univers voir plus !
-- [ReedCRM](https://github.com/Eoxia/reedcrm) - ID: 436351 - Ajout d'opportunité avec photo, note écrite, vocal, directement via votre téléphone en toute simpicité
+- [ReedCRM](https://github.com/Eoxia/reedcrm) - ID: 436351 - Ajout d'opportunité avec photo, note écrite, vocal, directement via votre téléphone en toute simplicité
 ## 📋Note de frais
 - [Frais.pro](https://github.com/Eoxia/fraispro) - ID 436355 - Ajout de note de frais en toute simplicité
 
 ## 📋WPShop
-- à venir
+- [DoliWPshop](https://github.com/Eoxia/doliwpshop) - ID: 800000 - Module de connexion entre WPShop et Dolibarr
 
 # Présentation de modules secondaires
-- à venir
+- ID: 436350 : [Priseo](https://github.com/Eoxia/priseo) - Analyse des prix des concurrents sur Dolibarr
+- ID: 436352 : [DoliCal](https://github.com/Eoxia/dolical) - Calendrier exploitable facilement
+- ID: 436353 : [DoliTypology](https://github.com/Eoxia/dolitypology) - Typologie et classification avancée pour Dolibarr
+- ID: 436360 : [DoliLetter](https://github.com/Eoxia/doliletter) - Gestion, envoi et archivage de courriers depuis Dolibarr
+- ID: 436370 : [DoliProject](https://github.com/Eoxia/doliproject) - Création automatique des tâches liées aux factures récurrentes
+- ID: 436371 : [DoliSci](https://github.com/Eoxia/dolisci) - Gestion des Sociétés Civiles Immobilières sur Dolibarr
+- ID: 436390 : [BddSwap](https://github.com/lmag/bddswap) - Bascule rapide entre plusieurs bases de données Dolibarr

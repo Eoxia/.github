@@ -31,4 +31,4 @@ Les plages de réservation des modules pour Dolibarr c'est sur le [wiki réserva
 - ID: 436360 : [DoliLetter](https://github.com/Eoxia/doliletter) - Gestion, envoi et archivage de courriers depuis Dolibarr
 - ID: 436370 : [DoliProject](https://github.com/Eoxia/doliproject) - Création automatique des tâches liées aux factures récurrentes
 - ID: 436371 : [DoliSci](https://github.com/Eoxia/dolisci) - Gestion des Sociétés Civiles Immobilières sur Dolibarr
-- ID: 436390 : [BddSwap](https://github.com/lmag/bddswap) - Bascule rapide entre plusieurs bases de données Dolibarr
+- ID: 436390 : [BddSwap](https://github.com/eoxia/bddswap) - Bascule rapide entre plusieurs bases de données Dolibarr

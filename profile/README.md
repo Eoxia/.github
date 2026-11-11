@@ -28,6 +28,7 @@ Les plages de réservation des modules pour Dolibarr c'est sur le [wiki réserva
 - ID: 436350 : [Priseo](https://github.com/Eoxia/priseo) - Analyse des prix des concurrents sur Dolibarr
 - ID: 436352 : [DoliCal](https://github.com/Eoxia/dolical) - Calendrier exploitable facilement
 - ID: 436353 : [DoliTypology](https://github.com/Eoxia/dolitypology) - Typologie et classification avancée pour Dolibarr à pour vocation d'être dans le cœur de Dolibarr à partir de la v25
+- ID: 436354 : [EzCompta](https://github.com/Eoxia/ezcompta) - La compta facile pour Dolibarr
 - ID: 436360 : [DoliLetter](https://github.com/Eoxia/doliletter) - Gestion, envoi et archivage de courriers depuis Dolibarr
 - ID: 436370 : [DoliProject](https://github.com/Eoxia/doliproject) - Création automatique des tâches liées aux factures récurrentes
 - ID: 436371 : [DoliSci](https://github.com/Eoxia/dolisci) - Gestion des Sociétés Civiles Immobilières sur Dolibarr
